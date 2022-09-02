@@ -13,8 +13,7 @@ $(document).ready(function(){
           $('.ir-arriba').slideUp(300);
       }
   });
- 
- });
+  });
 // function tamVentana() {
 //     var tam = [0, 0];
 //     if (typeof window.innerWidth != 'undefined')
